@@ -10,3 +10,9 @@
   font-weight: normal;
   color: green;
 }
+
+.about {
+  font-family: monospace;
+  color: grey;
+  text-align: center;
+}
